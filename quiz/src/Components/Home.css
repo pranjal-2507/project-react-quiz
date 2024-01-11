@@ -2,6 +2,7 @@ body {
   /* background-color: #473a8d; */
 }
 .main {
+  height: 500px;
   background-color:#473a8d;
   display: flex;
   flex-direction: column;
