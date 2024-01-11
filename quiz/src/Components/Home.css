@@ -1,15 +1,11 @@
-body {
-  /* background-color: #473a8d; */
-}
 .main {
   height: 500px;
-  background-color:#473a8d;
+  background-color: #473a8d;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   color: white;
-  /* margin-top: 200px; */
 }
 button {
   width: 200px;
