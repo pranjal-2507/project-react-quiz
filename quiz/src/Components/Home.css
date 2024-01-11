@@ -1,0 +1,20 @@
+body {
+  background-color: #473a8d;
+}
+.main {
+  background-color:#473a8d;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  /* margin-top: 200px; */
+}
+button {
+  width: 200px;
+  height: 33px;
+  background-color: #0ab306;
+  border-radius: 20px;
+  cursor: pointer;
+  color: white;
+}

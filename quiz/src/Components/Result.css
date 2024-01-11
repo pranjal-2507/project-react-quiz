@@ -1,0 +1,59 @@
+body{
+    background-color: #473a8d;
+}
+h1{
+    text-align: center;
+    color: #047E07;
+}
+.main{
+    width: 47%;
+    height: 350px;
+    background-color: white;
+    margin-left: 400px;
+    color: black;
+    margin-bottom: 100px;
+}
+
+.Scorephrase{
+    margin-top: -50px;
+    color: #0101FF;
+    font-family:'Times New Roman', Times, serif;
+    
+    font-weight: bolder;
+}
+.div1{
+    width: 86%;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px 10px;
+
+
+}
+span{
+    font-weight: bold;
+}
+button{
+    width: 150px;
+    font-weight: bold;
+    height: 30px;
+}
+.Btns{
+    position: absolute;
+    bottom: -510px;
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 520px;
+    margin-top: 30px;
+    
+}
+#play{
+    background-color: white;
+    border: 2px solid #8686F3;
+    color: #8686F3;
+}
+#back{
+    background-color: white;
+    border: 2px solid #8EBB89;
+    color: #8EBB89;
+}
