@@ -7,7 +7,7 @@ import HomeComponent from '../src/Components/HomeComponent'
 function App() {
   return (
     <div className="App">
-      {/* <HomeComponent/> */}
+      <HomeComponent/>
       <QuizComponent />
       <ResultComponent />
     </div>

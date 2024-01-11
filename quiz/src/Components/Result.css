@@ -5,7 +5,7 @@ h1{
     text-align: center;
     color: #047E07;
 }
-.main{
+.cont{
     width: 47%;
     height: 350px;
     background-color: white;
@@ -13,15 +13,27 @@ h1{
     color: black;
     margin-bottom: 100px;
 }
-
+.phrase{
+    padding-top: 40px;
+    position: relative;
+    margin-top: 10px;
+    padding-bottom: 100px;
+    text-align: center;
+}
 .Scorephrase{
-    margin-top: -50px;
+    /* position: absolute; */
+    text-align: center;
+    padding-top: 20px;
+    /* position: absolute; */
+    margin-top: -120px;
     color: #0101FF;
     font-family:'Times New Roman', Times, serif;
     
     font-weight: bolder;
 }
 .div1{
+    margin-left: 25px;
+    position: relative;
     width: 86%;
     display: flex;
     justify-content: space-between;
@@ -38,8 +50,9 @@ button{
     height: 30px;
 }
 .Btns{
-    position: absolute;
-    bottom: -510px;
+    position: relative;
+    bottom: 40px;
+    /* bottom: -850px; */
     width: 30%;
     display: flex;
     justify-content: space-around;

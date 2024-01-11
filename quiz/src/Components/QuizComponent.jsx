@@ -6,7 +6,7 @@ export default class Quiz extends React.Component{
         return(
             <>
             <div className="container">
-                <h1>Question</h1>
+                <h1 className='ques'>Question</h1>
                 <div className="NoOfQues">1 of 15</div>
                 <p>Which is the only mammal that can jump?</p>
 
