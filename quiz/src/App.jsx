@@ -1,8 +1,8 @@
 // import React from 'react';
 import './App.css';
-import HomeComponent from '../src/Components/HomeComponent'
- import QuizComponent from '../src/Components/quizComponent'
- import ResultComponent from '../src/Components/result.Component'
+import HomeComponent from '../src/Components/HomeComponent.jsx'
+ import QuizComponent from '../src/Components/QuizComponent.jsx'
+ import ResultComponent from '../src/Components/Result.Component.jsx'
 
 function App() {
   return (
